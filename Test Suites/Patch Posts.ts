@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Put Posts</name>
+   <name>Patch Posts</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,5 +10,5 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>e3cf9912-1a56-4d12-b997-c32cb07b9d44</testSuiteGuid>
+   <testSuiteGuid>e1b47ca3-d5cf-4312-baed-18f241694eff</testSuiteGuid>
 </TestSuiteEntity>

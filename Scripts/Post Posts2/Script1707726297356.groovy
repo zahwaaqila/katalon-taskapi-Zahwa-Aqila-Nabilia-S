@@ -17,5 +17,5 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WS.sendRequestAndVerify(findTestObject('Put Posts', [('id') : 1, ('title') : 'foo', ('body') : 'bar', ('userId') : '1']))
+WS.sendRequest(findTestObject('Post Posts2', [('title') : 'foo', ('body') : 'bar', ('userId') : 2]))
 
