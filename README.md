@@ -25,7 +25,7 @@
 
 ## Detail Repositori Git
 - **URL Repositori:**
-  - https://github.com/zahwaaqila/Finalproject-website.git
+  - https://github.com/zahwaaqila/katalon-taskapi-Zahwa-Aqila-Nabilia-S.git
 
 - **Detail Commit:**
   - Beberapa commit dengan pesan commit yang jelas.
