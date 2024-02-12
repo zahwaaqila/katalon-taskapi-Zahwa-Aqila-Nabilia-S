@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Post Collection" time="105.314" tests="11" failures="0" errors="0">
+   <testsuite name="Delete Posts" tests="2" failures="0" errors="0" time="12.33" skipped="0" timestamp="12-02-2024T15:38:01" hostname="LENOVO - DESKTOP-SKHBD1C" id="Test Suites/Delete Posts">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\LENOVO\\git\\katalon-taskapi-Zahwa-Aqila-Nabilia-S\\Reports\\20240212_153745\\Delete Posts\\20240212_153746"/>
+         <property name="logFiles" value="C:\\Users\\LENOVO\\git\\katalon-taskapi-Zahwa-Aqila-Nabilia-S\\Reports\\20240212_153745\\Delete Posts\\20240212_153746\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="LENOVO - DESKTOP-SKHBD1C"/>
+         <property name="hostAddress" value="172.16.38.192"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+      </properties>
+      <testcase name="Test Cases/Delete Posts" time="8.687" classname="Test Cases/Delete Posts" status="PASSED">
+         <system-out><![CDATA[12-02-2024T15:38:01 - [TEST_CASE][PASSED] - Test Cases/Delete Posts: Test Cases/Delete Posts
+
+12-02-2024T15:38:02 - [TEST_STEP][PASSED] - sendRequestAndVerify(findTestObject("Delete Posts")): Send request and verify the response successfully
+
+12-02-2024T15:38:07 - [MESSAGE][INFO] - HAR: C:\Users\LENOVO\git\katalon-taskapi-Zahwa-Aqila-Nabilia-S\Reports\20240212_153745\Delete Posts\20240212_153746\requests\main\0.har
+
+12-02-2024T15:38:07 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+12-02-2024T15:38:08 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+12-02-2024T15:38:08 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+12-02-2024T15:38:08 - [MESSAGE][PASSED] - Verify response successfully
+
+12-02-2024T15:38:08 - [MESSAGE][PASSED] - All validation steps have been passed
+
+12-02-2024T15:38:08 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+12-02-2024T15:38:10 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Delete Posts' .
+
+12-02-2024T15:38:10 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Delete Posts' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Delete Posts2" time="3.259" classname="Test Cases/Delete Posts2" status="PASSED">
+         <system-out><![CDATA[12-02-2024T15:38:10 - [TEST_CASE][PASSED] - Test Cases/Delete Posts2: Test Cases/Delete Posts2
+
+12-02-2024T15:38:10 - [TEST_STEP][PASSED] - sendRequest(findTestObject("Delete Posts2")): Send request successfully
+
+12-02-2024T15:38:11 - [MESSAGE][INFO] - HAR: C:\Users\LENOVO\git\katalon-taskapi-Zahwa-Aqila-Nabilia-S\Reports\20240212_153745\Delete Posts\20240212_153746\requests\main\1.har
+
+12-02-2024T15:38:11 - [MESSAGE][PASSED] - Send request successfully
+
+12-02-2024T15:38:13 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Delete Posts2' .
+
+12-02-2024T15:38:13 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Delete Posts2' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[12-02-2024T15:38:01 - [TEST_SUITE][PASSED] - Delete Posts: Test Cases/Delete Posts2]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="Get Posts" tests="4" failures="0" errors="0" time="16.076" skipped="0" timestamp="12-02-2024T15:38:22" hostname="LENOVO - DESKTOP-SKHBD1C" id="Test Suites/Get Posts">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\LENOVO\\git\\katalon-taskapi-Zahwa-Aqila-Nabilia-S\\Reports\\20240212_153745\\Get Posts\\20240212_153748"/>
+         <property name="logFiles" value="C:\\Users\\LENOVO\\git\\katalon-taskapi-Zahwa-Aqila-Nabilia-S\\Reports\\20240212_153745\\Get Posts\\20240212_153748\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="LENOVO - DESKTOP-SKHBD1C"/>
+         <property name="hostAddress" value="172.16.38.192"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+      </properties>
+      <testcase name="Test Cases/Get Comment PostId1" time="7.997" classname="Test Cases/Get Comment PostId1" status="PASSED">
+         <system-out><![CDATA[12-02-2024T15:38:23 - [TEST_CASE][PASSED] - Test Cases/Get Comment PostId1: Test Cases/Get Comment PostId1
+
+12-02-2024T15:38:23 - [TEST_STEP][PASSED] - sendRequestAndVerify(findTestObject("Get Comment PostId1")): Send request and verify the response successfully
+
+12-02-2024T15:38:28 - [MESSAGE][INFO] - HAR: C:\Users\LENOVO\git\katalon-taskapi-Zahwa-Aqila-Nabilia-S\Reports\20240212_153745\Get Posts\20240212_153748\requests\main\0.har
+
+12-02-2024T15:38:28 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+12-02-2024T15:38:28 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+12-02-2024T15:38:28 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+12-02-2024T15:38:28 - [MESSAGE][PASSED] - Verify response successfully
+
+12-02-2024T15:38:28 - [MESSAGE][PASSED] - All validation steps have been passed
+
+12-02-2024T15:38:28 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+12-02-2024T15:38:30 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Get Comment PostId1' .
+
+12-02-2024T15:38:30 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Get Comment PostId1' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Get Post1" time="2.703" classname="Test Cases/Get Post1" status="PASSED">
+         <system-out><![CDATA[12-02-2024T15:38:31 - [TEST_CASE][PASSED] - Test Cases/Get Post1: Test Cases/Get Post1
+
+12-02-2024T15:38:31 - [TEST_STEP][PASSED] - response = sendRequestAndVerify(findTestObject("Get Posts1")): Send request and verify the response successfully
+
+12-02-2024T15:38:31 - [MESSAGE][INFO] - HAR: C:\Users\LENOVO\git\katalon-taskapi-Zahwa-Aqila-Nabilia-S\Reports\20240212_153745\Get Posts\20240212_153748\requests\main\1.har
+
+12-02-2024T15:38:31 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+12-02-2024T15:38:31 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+12-02-2024T15:38:31 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+12-02-2024T15:38:31 - [MESSAGE][PASSED] - Verify response successfully
+
+12-02-2024T15:38:31 - [MESSAGE][PASSED] - All validation steps have been passed
+
+12-02-2024T15:38:31 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+12-02-2024T15:38:31 - [TEST_STEP][PASSED] - verifyElementPropertyValue(response, "title", "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"): Verify element property value successfully
+
+12-02-2024T15:38:31 - [MESSAGE][PASSED] - Verify element property value successfully
+
+12-02-2024T15:38:33 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Get Post1' .
+
+12-02-2024T15:38:33 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Get Post1' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Get posts" time="2.587" classname="Test Cases/Get posts" status="PASSED">
+         <system-out><![CDATA[12-02-2024T15:38:33 - [TEST_CASE][PASSED] - Test Cases/Get posts: Test Cases/Get posts
+
+12-02-2024T15:38:33 - [TEST_STEP][PASSED] - response = sendRequestAndVerify(findTestObject("Get Posts")): Send request and verify the response successfully
+
+12-02-2024T15:38:34 - [MESSAGE][INFO] - HAR: C:\Users\LENOVO\git\katalon-taskapi-Zahwa-Aqila-Nabilia-S\Reports\20240212_153745\Get Posts\20240212_153748\requests\main\2.har
+
+12-02-2024T15:38:34 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+12-02-2024T15:38:34 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+12-02-2024T15:38:34 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+12-02-2024T15:38:34 - [MESSAGE][PASSED] - Verify response successfully
+
+12-02-2024T15:38:34 - [MESSAGE][PASSED] - All validation steps have been passed
+
+12-02-2024T15:38:34 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+12-02-2024T15:38:34 - [TEST_STEP][PASSED] - verifyElementPropertyValue(response, "[0].title", "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"): Verify element property value successfully
+
+12-02-2024T15:38:34 - [MESSAGE][PASSED] - Verify element property value successfully
+
+12-02-2024T15:38:36 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Get posts' .
+
+12-02-2024T15:38:36 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Get posts' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Get Posts1 Comment" time="2.389" classname="Test Cases/Get Posts1 Comment" status="PASSED">
+         <system-out><![CDATA[12-02-2024T15:38:36 - [TEST_CASE][PASSED] - Test Cases/Get Posts1 Comment: Test Cases/Get Posts1 Comment
+
+12-02-2024T15:38:36 - [TEST_STEP][PASSED] - sendRequestAndVerify(findTestObject("Get Post1 Comment")): Send request and verify the response successfully
+
+12-02-2024T15:38:36 - [MESSAGE][INFO] - HAR: C:\Users\LENOVO\git\katalon-taskapi-Zahwa-Aqila-Nabilia-S\Reports\20240212_153745\Get Posts\20240212_153748\requests\main\3.har
+
+12-02-2024T15:38:36 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+12-02-2024T15:38:36 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+12-02-2024T15:38:36 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+12-02-2024T15:38:36 - [MESSAGE][PASSED] - Verify response successfully
+
+12-02-2024T15:38:36 - [MESSAGE][PASSED] - All validation steps have been passed
+
+12-02-2024T15:38:36 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+12-02-2024T15:38:38 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Get Posts1 Comment' .
+
+12-02-2024T15:38:38 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Get Posts1 Comment' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[12-02-2024T15:38:22 - [TEST_SUITE][PASSED] - Get Posts: Test Cases/Get Posts1 Comment]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="Patch Posts" tests="1" failures="0" errors="0" time="9.548" skipped="0" timestamp="12-02-2024T15:38:49" hostname="LENOVO - DESKTOP-SKHBD1C" id="Test Suites/Patch Posts">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\LENOVO\\git\\katalon-taskapi-Zahwa-Aqila-Nabilia-S\\Reports\\20240212_153745\\Patch Posts\\20240212_153750"/>
+         <property name="logFiles" value="C:\\Users\\LENOVO\\git\\katalon-taskapi-Zahwa-Aqila-Nabilia-S\\Reports\\20240212_153745\\Patch Posts\\20240212_153750\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="LENOVO - DESKTOP-SKHBD1C"/>
+         <property name="hostAddress" value="172.16.38.192"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+      </properties>
+      <testcase name="Test Cases/Patch Posts" time="9.147" classname="Test Cases/Patch Posts" status="PASSED">
+         <system-out><![CDATA[12-02-2024T15:38:49 - [TEST_CASE][PASSED] - Test Cases/Patch Posts: Test Cases/Patch Posts
+
+12-02-2024T15:38:50 - [TEST_STEP][PASSED] - sendRequestAndVerify(findTestObject("Patch Posts", ["title":"foo"])): Send request and verify the response successfully
+
+12-02-2024T15:38:55 - [MESSAGE][INFO] - HAR: C:\Users\LENOVO\git\katalon-taskapi-Zahwa-Aqila-Nabilia-S\Reports\20240212_153745\Patch Posts\20240212_153750\requests\main\0.har
+
+12-02-2024T15:38:56 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+12-02-2024T15:38:56 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+12-02-2024T15:38:56 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+12-02-2024T15:38:56 - [MESSAGE][PASSED] - Verify response successfully
+
+12-02-2024T15:38:56 - [MESSAGE][PASSED] - All validation steps have been passed
+
+12-02-2024T15:38:56 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+12-02-2024T15:38:58 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Patch Posts' .
+
+12-02-2024T15:38:58 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Patch Posts' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[12-02-2024T15:38:49 - [TEST_SUITE][PASSED] - Patch Posts: Test Cases/Patch Posts]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="Post Posts" tests="2" failures="0" errors="0" time="12.366" skipped="0" timestamp="12-02-2024T15:39:07" hostname="LENOVO - DESKTOP-SKHBD1C" id="Test Suites/Post Posts">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\LENOVO\\git\\katalon-taskapi-Zahwa-Aqila-Nabilia-S\\Reports\\20240212_153745\\Post Posts\\20240212_153752"/>
+         <property name="logFiles" value="C:\\Users\\LENOVO\\git\\katalon-taskapi-Zahwa-Aqila-Nabilia-S\\Reports\\20240212_153745\\Post Posts\\20240212_153752\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="LENOVO - DESKTOP-SKHBD1C"/>
+         <property name="hostAddress" value="172.16.38.192"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+      </properties>
+      <testcase name="Test Cases/Post Posts" time="8.698" classname="Test Cases/Post Posts" status="PASSED">
+         <system-out><![CDATA[12-02-2024T15:39:07 - [TEST_CASE][PASSED] - Test Cases/Post Posts: Test Cases/Post Posts
+
+12-02-2024T15:39:08 - [TEST_STEP][PASSED] - sendRequestAndVerify(findTestObject("Post Posts", ["title":"foo", "body":"bar", "userId":1])): Send request and verify the response successfully
+
+12-02-2024T15:39:13 - [MESSAGE][INFO] - HAR: C:\Users\LENOVO\git\katalon-taskapi-Zahwa-Aqila-Nabilia-S\Reports\20240212_153745\Post Posts\20240212_153752\requests\main\0.har
+
+12-02-2024T15:39:14 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+12-02-2024T15:39:14 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+12-02-2024T15:39:14 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+12-02-2024T15:39:14 - [MESSAGE][PASSED] - Verify response successfully
+
+12-02-2024T15:39:14 - [MESSAGE][PASSED] - All validation steps have been passed
+
+12-02-2024T15:39:14 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+12-02-2024T15:39:16 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Post Posts' .
+
+12-02-2024T15:39:16 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Post Posts' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Post Posts2" time="3.271" classname="Test Cases/Post Posts2" status="PASSED">
+         <system-out><![CDATA[12-02-2024T15:39:16 - [TEST_CASE][PASSED] - Test Cases/Post Posts2: Test Cases/Post Posts2
+
+12-02-2024T15:39:16 - [TEST_STEP][PASSED] - sendRequest(findTestObject("Post Posts2", ["title":"foo", "body":"bar", "userId":2])): Send request successfully
+
+12-02-2024T15:39:17 - [MESSAGE][INFO] - HAR: C:\Users\LENOVO\git\katalon-taskapi-Zahwa-Aqila-Nabilia-S\Reports\20240212_153745\Post Posts\20240212_153752\requests\main\1.har
+
+12-02-2024T15:39:17 - [MESSAGE][PASSED] - Send request successfully
+
+12-02-2024T15:39:19 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Post Posts2' .
+
+12-02-2024T15:39:19 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Post Posts2' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[12-02-2024T15:39:07 - [TEST_SUITE][PASSED] - Post Posts: Test Cases/Post Posts2]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="Put Posts" tests="2" failures="0" errors="0" time="12.918" skipped="0" timestamp="12-02-2024T15:39:28" hostname="LENOVO - DESKTOP-SKHBD1C" id="Test Suites/Put Posts">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\LENOVO\\git\\katalon-taskapi-Zahwa-Aqila-Nabilia-S\\Reports\\20240212_153745\\Put Posts\\20240212_153754"/>
+         <property name="logFiles" value="C:\\Users\\LENOVO\\git\\katalon-taskapi-Zahwa-Aqila-Nabilia-S\\Reports\\20240212_153745\\Put Posts\\20240212_153754\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="LENOVO - DESKTOP-SKHBD1C"/>
+         <property name="hostAddress" value="172.16.38.192"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+      </properties>
+      <testcase name="Test Cases/Put Post" time="9.102" classname="Test Cases/Put Post" status="PASSED">
+         <system-out><![CDATA[12-02-2024T15:39:28 - [TEST_CASE][PASSED] - Test Cases/Put Post: Test Cases/Put Post
+
+12-02-2024T15:39:29 - [TEST_STEP][PASSED] - sendRequestAndVerify(findTestObject("Put Posts", ["id":1, "title":"foo", "body":"bar", "userId":"1"])): Send request and verify the response successfully
+
+12-02-2024T15:39:35 - [MESSAGE][INFO] - HAR: C:\Users\LENOVO\git\katalon-taskapi-Zahwa-Aqila-Nabilia-S\Reports\20240212_153745\Put Posts\20240212_153754\requests\main\0.har
+
+12-02-2024T15:39:35 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+12-02-2024T15:39:35 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+12-02-2024T15:39:35 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+12-02-2024T15:39:35 - [MESSAGE][PASSED] - Verify response successfully
+
+12-02-2024T15:39:35 - [MESSAGE][PASSED] - All validation steps have been passed
+
+12-02-2024T15:39:35 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+12-02-2024T15:39:37 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Put Post' .
+
+12-02-2024T15:39:37 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Put Post' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Put Posts2" time="3.414" classname="Test Cases/Put Posts2" status="PASSED">
+         <system-out><![CDATA[12-02-2024T15:39:37 - [TEST_CASE][PASSED] - Test Cases/Put Posts2: Test Cases/Put Posts2
+
+12-02-2024T15:39:38 - [TEST_STEP][PASSED] - sendRequest(findTestObject("Put Posts2", ["id":2, "title":"foo", "body":"bar", "userId":"2"])): Send request successfully
+
+12-02-2024T15:39:39 - [MESSAGE][INFO] - HAR: C:\Users\LENOVO\git\katalon-taskapi-Zahwa-Aqila-Nabilia-S\Reports\20240212_153745\Put Posts\20240212_153754\requests\main\1.har
+
+12-02-2024T15:39:39 - [MESSAGE][PASSED] - Send request successfully
+
+12-02-2024T15:39:41 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Put Posts2' .
+
+12-02-2024T15:39:41 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Put Posts2' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[12-02-2024T15:39:28 - [TEST_SUITE][PASSED] - Put Posts: Test Cases/Put Posts2]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

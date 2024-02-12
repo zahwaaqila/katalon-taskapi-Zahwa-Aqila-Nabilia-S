@@ -1,0 +1,12 @@
+1
+00:00:00,513 --> 00:00:06,540
+1. sendRequestAndVerify(findTestObject("Patch Posts", ["title":"foo"]))
+
+2
+00:00:06,556 --> 00:00:06,565
+1. request = getInstance().getCurrentRequest()
+
+3
+00:00:06,567 --> 00:00:06,708
+5. response = getInstance().getCurrentResponse()
+

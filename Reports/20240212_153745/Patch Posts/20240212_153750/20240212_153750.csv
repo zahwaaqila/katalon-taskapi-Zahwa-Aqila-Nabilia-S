@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Patch Posts,,,,12-02-2024 15:38:49,12-02-2024 15:38:58,9.548s,PASSED
+,,,,,,,
+Test Cases/Patch Posts,,,,12-02-2024 15:38:49,12-02-2024 15:38:58,9.147s,PASSED
+"sendRequestAndVerify(findTestObject(""Patch Posts"", [""title"":""foo""]))",,,,12-02-2024 15:38:50,12-02-2024 15:38:56,6.169s,PASSED
+Video,,,,12-02-2024 15:38:58,12-02-2024 15:38:58,0.001s,PASSED

@@ -1,0 +1,4 @@
+1
+00:00:00,091 --> 00:00:01,178
+1. sendRequest(findTestObject("Delete Posts2"))
+

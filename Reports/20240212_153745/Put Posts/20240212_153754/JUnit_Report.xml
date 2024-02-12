@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Put Posts" time="12.918" tests="2" failures="0" errors="0">
+   <testsuite name="Put Posts" tests="2" failures="0" errors="0" time="12.918" skipped="0" timestamp="12-02-2024T15:39:28" hostname="LENOVO - DESKTOP-SKHBD1C" id="Test Suites/Put Posts">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\LENOVO\\git\\katalon-taskapi-Zahwa-Aqila-Nabilia-S\\Reports\\20240212_153745\\Put Posts\\20240212_153754"/>
+         <property name="logFiles" value="C:\\Users\\LENOVO\\git\\katalon-taskapi-Zahwa-Aqila-Nabilia-S\\Reports\\20240212_153745\\Put Posts\\20240212_153754\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="LENOVO - DESKTOP-SKHBD1C"/>
+         <property name="hostAddress" value="172.16.38.192"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+      </properties>
+      <testcase name="Test Cases/Put Post" time="9.102" classname="Test Cases/Put Post" status="PASSED">
+         <system-out><![CDATA[12-02-2024T15:39:28 - [TEST_CASE][PASSED] - Test Cases/Put Post: Test Cases/Put Post
+
+12-02-2024T15:39:29 - [TEST_STEP][PASSED] - sendRequestAndVerify(findTestObject("Put Posts", ["id":1, "title":"foo", "body":"bar", "userId":"1"])): Send request and verify the response successfully
+
+12-02-2024T15:39:35 - [MESSAGE][INFO] - HAR: C:\Users\LENOVO\git\katalon-taskapi-Zahwa-Aqila-Nabilia-S\Reports\20240212_153745\Put Posts\20240212_153754\requests\main\0.har
+
+12-02-2024T15:39:35 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+12-02-2024T15:39:35 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+12-02-2024T15:39:35 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+12-02-2024T15:39:35 - [MESSAGE][PASSED] - Verify response successfully
+
+12-02-2024T15:39:35 - [MESSAGE][PASSED] - All validation steps have been passed
+
+12-02-2024T15:39:35 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+12-02-2024T15:39:37 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Put Post' .
+
+12-02-2024T15:39:37 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Put Post' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Put Posts2" time="3.414" classname="Test Cases/Put Posts2" status="PASSED">
+         <system-out><![CDATA[12-02-2024T15:39:37 - [TEST_CASE][PASSED] - Test Cases/Put Posts2: Test Cases/Put Posts2
+
+12-02-2024T15:39:38 - [TEST_STEP][PASSED] - sendRequest(findTestObject("Put Posts2", ["id":2, "title":"foo", "body":"bar", "userId":"2"])): Send request successfully
+
+12-02-2024T15:39:39 - [MESSAGE][INFO] - HAR: C:\Users\LENOVO\git\katalon-taskapi-Zahwa-Aqila-Nabilia-S\Reports\20240212_153745\Put Posts\20240212_153754\requests\main\1.har
+
+12-02-2024T15:39:39 - [MESSAGE][PASSED] - Send request successfully
+
+12-02-2024T15:39:41 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Put Posts2' .
+
+12-02-2024T15:39:41 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Put Posts2' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[12-02-2024T15:39:28 - [TEST_SUITE][PASSED] - Put Posts: Test Cases/Put Posts2]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

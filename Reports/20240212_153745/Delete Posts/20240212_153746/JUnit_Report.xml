@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Delete Posts" time="12.33" tests="2" failures="0" errors="0">
+   <testsuite name="Delete Posts" tests="2" failures="0" errors="0" time="12.33" skipped="0" timestamp="12-02-2024T15:38:01" hostname="LENOVO - DESKTOP-SKHBD1C" id="Test Suites/Delete Posts">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\LENOVO\\git\\katalon-taskapi-Zahwa-Aqila-Nabilia-S\\Reports\\20240212_153745\\Delete Posts\\20240212_153746"/>
+         <property name="logFiles" value="C:\\Users\\LENOVO\\git\\katalon-taskapi-Zahwa-Aqila-Nabilia-S\\Reports\\20240212_153745\\Delete Posts\\20240212_153746\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="LENOVO - DESKTOP-SKHBD1C"/>
+         <property name="hostAddress" value="172.16.38.192"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+      </properties>
+      <testcase name="Test Cases/Delete Posts" time="8.687" classname="Test Cases/Delete Posts" status="PASSED">
+         <system-out><![CDATA[12-02-2024T15:38:01 - [TEST_CASE][PASSED] - Test Cases/Delete Posts: Test Cases/Delete Posts
+
+12-02-2024T15:38:02 - [TEST_STEP][PASSED] - sendRequestAndVerify(findTestObject("Delete Posts")): Send request and verify the response successfully
+
+12-02-2024T15:38:07 - [MESSAGE][INFO] - HAR: C:\Users\LENOVO\git\katalon-taskapi-Zahwa-Aqila-Nabilia-S\Reports\20240212_153745\Delete Posts\20240212_153746\requests\main\0.har
+
+12-02-2024T15:38:07 - [TEST_CASE][PASSED] - Start Test Case : Verification: Verification accomplished successfully
+
+12-02-2024T15:38:08 - [TEST_STEP][PASSED] - request = getInstance().getCurrentRequest(): null
+
+12-02-2024T15:38:08 - [TEST_STEP][PASSED] - response = getInstance().getCurrentResponse(): null
+
+12-02-2024T15:38:08 - [MESSAGE][PASSED] - Verify response successfully
+
+12-02-2024T15:38:08 - [MESSAGE][PASSED] - All validation steps have been passed
+
+12-02-2024T15:38:08 - [MESSAGE][PASSED] - Send request and verify the response successfully
+
+12-02-2024T15:38:10 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Delete Posts' .
+
+12-02-2024T15:38:10 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Delete Posts' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Delete Posts2" time="3.259" classname="Test Cases/Delete Posts2" status="PASSED">
+         <system-out><![CDATA[12-02-2024T15:38:10 - [TEST_CASE][PASSED] - Test Cases/Delete Posts2: Test Cases/Delete Posts2
+
+12-02-2024T15:38:10 - [TEST_STEP][PASSED] - sendRequest(findTestObject("Delete Posts2")): Send request successfully
+
+12-02-2024T15:38:11 - [MESSAGE][INFO] - HAR: C:\Users\LENOVO\git\katalon-taskapi-Zahwa-Aqila-Nabilia-S\Reports\20240212_153745\Delete Posts\20240212_153746\requests\main\1.har
+
+12-02-2024T15:38:11 - [MESSAGE][PASSED] - Send request successfully
+
+12-02-2024T15:38:13 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/Delete Posts2' .
+
+12-02-2024T15:38:13 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/Delete Posts2' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[12-02-2024T15:38:01 - [TEST_SUITE][PASSED] - Delete Posts: Test Cases/Delete Posts2]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

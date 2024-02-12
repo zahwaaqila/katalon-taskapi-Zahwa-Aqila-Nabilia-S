@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Get Posts,,,,12-02-2024 15:38:22,12-02-2024 15:38:38,16.076s,PASSED
+,,,,,,,
+Test Cases/Get Comment PostId1,,,,12-02-2024 15:38:23,12-02-2024 15:38:30,7.997s,PASSED
+"sendRequestAndVerify(findTestObject(""Get Comment PostId1""))",,,,12-02-2024 15:38:23,12-02-2024 15:38:28,4.962s,PASSED
+Video,,,,12-02-2024 15:38:30,12-02-2024 15:38:30,0.001s,PASSED
+,,,,,,,
+Test Cases/Get Post1,,,,12-02-2024 15:38:31,12-02-2024 15:38:33,2.703s,PASSED
+"response = sendRequestAndVerify(findTestObject(""Get Posts1""))",,,,12-02-2024 15:38:31,12-02-2024 15:38:31,0.351s,PASSED
+"verifyElementPropertyValue(response, ""title"", ""sunt aut facere repellat provident occaecati excepturi optio reprehenderit"")",,,,12-02-2024 15:38:31,12-02-2024 15:38:31,0.164s,PASSED
+Video,,,,12-02-2024 15:38:33,12-02-2024 15:38:33,0.001s,PASSED
+,,,,,,,
+Test Cases/Get posts,,,,12-02-2024 15:38:33,12-02-2024 15:38:36,2.587s,PASSED
+"response = sendRequestAndVerify(findTestObject(""Get Posts""))",,,,12-02-2024 15:38:33,12-02-2024 15:38:34,0.395s,PASSED
+"verifyElementPropertyValue(response, ""[0].title"", ""sunt aut facere repellat provident occaecati excepturi optio reprehenderit"")",,,,12-02-2024 15:38:34,12-02-2024 15:38:34,0.084s,PASSED
+Video,,,,12-02-2024 15:38:36,12-02-2024 15:38:36,0.000s,PASSED
+,,,,,,,
+Test Cases/Get Posts1 Comment,,,,12-02-2024 15:38:36,12-02-2024 15:38:38,2.389s,PASSED
+"sendRequestAndVerify(findTestObject(""Get Post1 Comment""))",,,,12-02-2024 15:38:36,12-02-2024 15:38:36,0.296s,PASSED
+Video,,,,12-02-2024 15:38:38,12-02-2024 15:38:38,0.001s,PASSED

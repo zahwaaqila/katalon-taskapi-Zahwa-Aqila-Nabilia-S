@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Put Posts,,,,12-02-2024 15:39:28,12-02-2024 15:39:41,12.918s,PASSED
+,,,,,,,
+Test Cases/Put Post,,,,12-02-2024 15:39:28,12-02-2024 15:39:37,9.102s,PASSED
+"sendRequestAndVerify(findTestObject(""Put Posts"", [""id"":1, ""title"":""foo"", ""body"":""bar"", ""userId"":""1""]))",,,,12-02-2024 15:39:29,12-02-2024 15:39:35,6.039s,PASSED
+Video,,,,12-02-2024 15:39:37,12-02-2024 15:39:37,0.001s,PASSED
+,,,,,,,
+Test Cases/Put Posts2,,,,12-02-2024 15:39:37,12-02-2024 15:39:41,3.414s,PASSED
+"sendRequest(findTestObject(""Put Posts2"", [""id"":2, ""title"":""foo"", ""body"":""bar"", ""userId"":""2""]))",,,,12-02-2024 15:39:38,12-02-2024 15:39:39,1.222s,PASSED
+Video,,,,12-02-2024 15:39:41,12-02-2024 15:39:41,0.003s,PASSED
